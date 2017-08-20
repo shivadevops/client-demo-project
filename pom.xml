@@ -98,6 +98,9 @@
           <scope>test</scope>
         </dependency>
       </dependencies>
+		  <!--Property added by Shiva -->
+ <properties>
+   	<sonar.host.url>http://ip:9000</sonar.host.url>	</properties>
     </profile>	
 	</profiles>
 	
